@@ -1,3 +1,20 @@
 body {
+   background-color: lime;
+}
 
+h4 {
+  color: red;
+  text-align: center;
+  font-size: 70px;
+  font-family: impact;
+  letter-spacing: 5px;
+  text-shadow: 1px 1px 2px black;
+}
+img {
+  border: dotted black 8px;
+  width: 30%;
+}
+img:hover {
+  border: dashed blue 
+20px;
 }
